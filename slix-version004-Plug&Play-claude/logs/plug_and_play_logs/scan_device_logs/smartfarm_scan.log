@@ -1,0 +1,4 @@
+2026-03-21 21:14:54 - INFO - [DeepScan] Port 1: starting scan (waiting 3s for sensor ready)
+2026-03-21 21:14:57 - INFO - [DeepScan] Port 1: scanning type=soil addresses=[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13]
+2026-03-21 21:14:57 - INFO - [DeepScan] Port 1: response from type=soil address=1
+2026-03-21 21:14:57 - INFO - [DeepScan] Port 1: recognized returning sensor address=1 instance=01 (restored from reserved)

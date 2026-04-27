@@ -1,0 +1,6 @@
+2026-03-21 21:14:33 - WARNING - [PnP] Port 1: cable disconnected -> removing from active
+2026-03-21 21:14:33 - INFO - Removed port 1 -> moved address 1 to reserved (type=soil instance=01)
+2026-03-21 21:14:54 - INFO - [PnP] Port 1: new connection detected -> starting deep scan
+2026-03-21 21:14:57 - INFO - Removed address 1 from reserved (sensor returned)
+2026-03-21 21:14:57 - INFO - Added port 1 -> type=soil address=1 model=RK520 instance=01
+2026-03-21 21:14:57 - INFO - [PnP] Port 1: sensor registered and ready

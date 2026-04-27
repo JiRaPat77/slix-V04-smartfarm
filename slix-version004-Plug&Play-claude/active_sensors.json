@@ -1,0 +1,17 @@
+{
+  "active": {
+    "3": {
+      "type": "solar",
+      "address": 79,
+      "model": "RK200",
+      "instance": "01"
+    },
+    "1": {
+      "type": "soil",
+      "address": 1,
+      "model": "RK520",
+      "instance": "01"
+    }
+  },
+  "reserved": {}
+}

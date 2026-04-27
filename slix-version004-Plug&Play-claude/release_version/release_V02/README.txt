@@ -1,0 +1,2 @@
+- This file main use thread to run process
+- Don"t send "operation_status" , "current_status" to thingsboard 
