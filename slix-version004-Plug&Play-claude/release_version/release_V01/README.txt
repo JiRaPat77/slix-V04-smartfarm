@@ -1,1 +1,0 @@
-Don't have run by thread
